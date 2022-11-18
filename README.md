@@ -1,16 +1,17 @@
 # rodi-training-path
 Target role for 2023: Penetration Tester, focusing on web applications
 
-# Training Objectives for 2022/23
+# General Training Objectives for 2022/23
 - Security Fundamentals
 - Security Testing (touch multiple domains)
 - Programming (python intermidiate)
 - OWASP Top 10 - Web Testing Framework
 - Web Security Testing Courses an
-
-# Certification Milestones
-## 2022/23
-- Certified in Cybersecurity (ICS2)
+- 
+# Milestones 2022/23
+- Python Fundamentals
+- Find your first bug
+- Certified in Cybersecurity (ISC2)
 - Certified Penetration Tester (HTB)
 - eWPTv1 - Web Application PenTester (or WEB 200)
 ## 2024
