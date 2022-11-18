@@ -6,9 +6,10 @@ Target role for 2023: Penetration Tester, focusing on web applications
 - Security Testing (touch multiple domains)
 - Programming (python intermidiate)
 - OWASP Top 10 - Web Testing Framework
-- Web Security Testing Courses an
-- 
-# Milestones 2022/23
+- Web Security Testing 
+
+# Milestones 
+## 2022/23
 - Python Fundamentals
 - Find your first bug
 - Certified in Cybersecurity (ISC2)
