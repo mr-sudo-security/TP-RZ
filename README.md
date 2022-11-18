@@ -6,7 +6,7 @@ Target role for 2023: Penetration Tester, focusing on web applications
     Overview of training objectives, milestones and later challenges/badges
 - **Issues**
     Your training tasks, typically a video to watch, a course or courses to watch, an exam, a challenge etc.
-- **Issues -> Milestones **
+- **Issues -> Milestones**
     Your Training Milestone, with estimated deadlines and all the tasks that must be completed for each of them to be reached.
     Priorities for the tasks are like this P1>P2>P3>P4.
     Milestones can be sorted with 'closest due date' to see your next due date.
