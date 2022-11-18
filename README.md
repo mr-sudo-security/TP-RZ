@@ -1,11 +1,11 @@
 # rodi-training-path
-Target role for 2023 -> Penetration Tester, focusing on web applications
+Target role for 2023: Penetration Tester, focusing on web applications
 
 # Training Objectives for 2022/23
 - Security Fundamentals
 - Security Testing (touch multiple domains)
 - Programming (python intermidiate)
-- OWASP Top 10
+- OWASP Top 10 - Web Testing Framework
 - Web Security Testing Courses an
 
 # Certification Milestones
@@ -18,7 +18,9 @@ Target role for 2023 -> Penetration Tester, focusing on web applications
 
 
 # Practical challenges/badges
-- Penetesting Lab (web related/api etc.)
+Section that lists challenges that verify the knowledge of the participant based on the target role. Multiple platforms will be used, e.g., HTB, PenTest Lab 
+
+- Penetesting Lab (web related/api etc.) (TBA)
   - Essentials Badge
   - API Badge
 - Hack the box
