@@ -1,4 +1,4 @@
-# RZ Training Path
+# Web Security Tester - Training Path
 Target role for 2023: Penetration Tester, focusing on web applications
 
 # Training Structure
